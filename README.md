@@ -1,6 +1,6 @@
 # js-struct
 
-### Installation
+### Installation and running
     $ docker run -t 5000:80 evengining/js-struct
     
 #### or 
