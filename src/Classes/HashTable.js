@@ -10,7 +10,7 @@ class HashTable
 
     ouput()
     {
-        console.log(Object.assign([], this.data))
+        console.log(this.data)
     }
 
     hash(string, max)
